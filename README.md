@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Kevin Stuardo un apasionado por la tecnología y un estudiante de ingeniería informática en Duocuc. <br>Mi objetivo es aprender constantemente y contribuir al mundo de la programación y el desarrollo de software y la ciberseguridad.
+Soy Kevin  un apasionado por la tecnología y un estudiante de ingeniería informática en Duocuc. <br>Mi objetivo es aprender constantemente y contribuir al mundo de la programación y el desarrollo de software y la ciberseguridad.
 
 
 ## 🌐 Socials:
