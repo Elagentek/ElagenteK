@@ -1,8 +1,8 @@
 # 💫 About Me:
-Soy Kevin  un apasionado por la tecnología y un estudiante de ingeniería informática en Duocuc. <br>Mi objetivo es aprender constantemente y contribuir al mundo de la programación y el desarrollo de software y la ciberseguridad.
+ Apasionado por la tecnología y un estudiante de ingeniería informática .<br>Mi objetivo es aprender constantemente y contribuir al mundo de la programación y el desarrollo de software.
 
 
-## 🌐 Socials:
+## 🌐 REDES SOCIALES:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/Elagentek) 
 
 # 💻 Tech Stack:
