@@ -28,8 +28,15 @@ if __name__ == '__main__':
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elagentek&theme=shades-of-purple&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elagentek)](https://github.com/Elagentek/github-readme-stats)
-
+</br>
 </div>
+<br />
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elagentek&theme=gotham&show_icons=true" alt="Elagentek"/>
+
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Elagentek&show_icons=true&theme=gotham"/>
+</p>
+
+<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Elagentek&theme=gotham"/>
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+</p>
