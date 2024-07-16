@@ -37,6 +37,6 @@ if __name__ == '__main__':
 </p>
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Elagentek&theme=gotham"/>
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img src="https://www.masgamers.com/wp-content/uploads/2022/03/image-80-630x354.jpeg"
 
 </p>
