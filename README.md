@@ -14,7 +14,7 @@ class  ElagenteK():
     self.name = "ElagenteK";
     self.username = "Kevin Stuardo";
     self.location = "chile";
-    self.web = "in comming";
+    self.web = "to come";
   
   def __str__(self):
     return self.name
@@ -23,3 +23,5 @@ if __name__ == '__main__':
     me = ElagenteK()
 ```
 
+<br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elagentek&theme=dark&locale=ca" alt="GitHub Streak" /></a> 
