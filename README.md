@@ -24,4 +24,6 @@ if __name__ == '__main__':
 ```
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elagentek&theme=dark&locale=ca" alt="GitHub Streak" /></a> 
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Elagentek&theme=shades-of-purple&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+</div>
