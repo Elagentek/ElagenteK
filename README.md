@@ -58,6 +58,8 @@ class Developer:
 if __name__ == "__main__":
     dev = Developer("Kevin Stuardo", "ElagenteK", "Chile", "http://gptonline.ai/es")
     print(dev.portfolio())
+```
+
 
 # 📈 Estadísticas de GitHub
 <div align="center">
@@ -67,3 +69,4 @@ if __name__ == "__main__":
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Elagentek&theme=shades-of-purple&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
+
