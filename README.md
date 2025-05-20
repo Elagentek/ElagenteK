@@ -39,6 +39,7 @@
 
 <br>
 ## Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElagenteK&layout=compact)
 
 </div>
