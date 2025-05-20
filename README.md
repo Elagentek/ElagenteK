@@ -61,12 +61,14 @@ if __name__ == "__main__":
 ```
 
 
+
 # 📈 Estadísticas de GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elagentek&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elagentek&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact&theme=radical" alt="Top Langs" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Elagentek&theme=shades-of-purple&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
+
 
