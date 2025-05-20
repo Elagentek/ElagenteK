@@ -23,7 +23,5 @@
     <img src="https://visitcount.itsvg.in/api?id=ElagenteK&icon=0&color=0" />
   </a>
 
-  <br/><br/>
-  <p><i><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --></i></p>
-
+  
 </div>
