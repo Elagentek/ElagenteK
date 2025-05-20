@@ -7,21 +7,31 @@
 
 <div align="center">
 
+<div align="center">
+
   <h1>📊 GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=ElagenteK&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ElagenteK&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElagenteK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+  <!-- Estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ElagenteK&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+
+  <!-- Racha de contribuciones -->
+  <img src="https://streak-stats.demolab.com/?user=ElagenteK&theme=dark" />
+
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElagenteK&layout=compact&theme=dark&count_private=true" />
 
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=ElagenteK&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 
-  <h3>🔝 Top Contributed Repo</h3>
+  <h3>🔝 Top Contributed Repositories</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=ElagenteK&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
   <br/><br/>
+
+  <!-- Contador de visitas -->
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ElagenteK&icon=0&color=0" />
   </a>
 
-  
 </div>
+
