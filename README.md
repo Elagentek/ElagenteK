@@ -1,6 +1,10 @@
 # 💫 About Me:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💡 Apasionado por la tecnología y estudiante de Ingeniería en Informática, siempre en busca de nuevos conocimientos y desafíos.
 🎯 Mi objetivo es aprender de forma constante y aportar valor al mundo de la programación y el desarrollo de software a través de proyectos reales y colaborativos.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+💡 Passionate about technology and a Computer Engineering student, always seeking new knowledge and challenges. 
+🎯 My goal is to continuously learn and contribute value to the world of programming and software development through real and collaborative projects.
 
 
 
@@ -11,12 +15,6 @@
 
 ## 🌐 REDES SOCIALES:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/Elagentek) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elagentek&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Elagentek&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ```python
 class  ElagenteK():
   def __init__(self):
@@ -42,10 +40,7 @@ if __name__ == '__main__':
 <br />
 
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Elagentek&theme=gotham"/>
-<img src="https://www.masgamers.com/wp-content/uploads/2022/03/image-80-630x354.jpeg"
 
-</p>
 
 
 
