@@ -38,7 +38,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elagentek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-##Lenguajes más usados
+##🏆Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact&theme=default&hide_border=false)
 
