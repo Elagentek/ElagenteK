@@ -3,7 +3,7 @@
 🎯 Mi objetivo es aprender de forma constante y aportar valor al mundo de la programación y el desarrollo de software a través de proyectos reales y colaborativos.<br><br>
 🧠 Actualmente aprendiendo: tecnologías cloud, arquitectura de software y desarrollo full stack.<br>
 🤝 Buscando colaborar en: proyectos open source y startups tecnológicas.<br>
-📫 Contacto: [LinkedIn](https://www.linkedin.com/in/tu-usuario/) <!-- Reemplaza con tu URL -->
+📫 Contacto: [LinkedIn]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/kevin-alexander-ignacio-stuardo-novoa-44b82620a/)) <!-- Reemplaza con tu URL -->
 
 ---
 
