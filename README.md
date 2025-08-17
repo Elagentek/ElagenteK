@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Soy un apasionado por la tecnología y estudiante de Ingeniería en Informática, siempre en busca de nuevos conocimientos y desafíos.<br>
+💡 Soy un apasionado por la tecnología Analista Programador y estudiante de Ingeniería en Informática, siempre en busca de nuevos conocimientos y desafíos.<br>
 🎯 Mi objetivo es aprender de forma constante y aportar valor al mundo de la programación y el desarrollo de software a través de proyectos reales y colaborativos.<br><br>
 🧠 Actualmente aprendiendo: tecnologías cloud, arquitectura de software y desarrollo full stack.<br>
 🤝 Buscando colaborar en: proyectos open source y startups tecnológicas.<br>
