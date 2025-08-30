@@ -5,7 +5,7 @@
 🤝 Buscando colaborar en: proyectos open source y startups tecnológicas.<br>
 📫 Contacto: [LinkedIn]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/kevin-alexander-ignacio-stuardo-novoa-44b82620a/)) <!-- Reemplaza con tu URL -->
 
----
+--
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
