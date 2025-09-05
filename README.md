@@ -1,15 +1,14 @@
 <!-- ====== HEADER STAR WARS ====== -->
 <div align="center">
 
-# 🌌 A long time ago, in a repo far, far away…
 
-> *“Do. Or do not. There is no try.”* — Yoda
+# 🌌 Welcome, Young Padawan  
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/HHS2CQGdvCx3y/giphy.gif" width="800"/>
+<img src="https://media.giphy.com/media/HHS2CQGdvCx3y/giphy.gif" width="700"/>
 
 </div>
+
+
 
 ---
 
