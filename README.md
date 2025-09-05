@@ -2,12 +2,13 @@
 <div align="center">
 
 
-# 🌌 Welcome, Young Padawan  
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/GkCcRey2Hq5NVH8sfM/giphy.gif" width="500"/>
 
 </div>
+
 
 
 
