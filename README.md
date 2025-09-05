@@ -5,12 +5,9 @@
 
 > *“Do. Or do not. There is no try.”* — Yoda
 
-<!-- Lightsabers (decorativos) -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="500"/>
-
-</div>
+<img src="https://media.giphy.com/media/HHS2CQGdvCx3y/giphy.gif" width="800"/>
 
 </div>
 
