@@ -39,9 +39,15 @@
 <div align="center">
 
 ## 📊 GitHub Stats  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elagentek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>  
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Elagentek&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
----
+<!-- Lenguajes -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact&theme=dark&hide_border=false&cache_seconds=1800" />
+</p>
 
 ## 🏆 Lenguajes más usados  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact&theme=default&hide_border=false)  
