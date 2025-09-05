@@ -5,10 +5,7 @@
 # 🌌 Welcome, Young Padawan  
 
 <div align="center">
-
-# 🌌 Welcome, Young Padawan  
-
-<img src="https://media.giphy.com/media/HHS2CQGdvCx3y/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/GkCcRey2Hq5NVH8sfM/giphy.gif" width="700"/>
 
 </div>
 
