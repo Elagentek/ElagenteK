@@ -9,7 +9,7 @@
   
 ![blue](https://img.shields.io/badge/-%20-%230077FF?style=for-the-badge)&nbsp;
 ![green](https://img.shields.io/badge/-%20-%2320C933?style=for-the-badge)&nbsp;
-![red](https://img.shields.io/badge/-%20-%23D00000?style=for-the-badge)
+![red](https://img.shields.io/badge/-%20-%23D00000?style=for-the-badge)&nbsp;
 
 </div>
 
