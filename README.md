@@ -1,15 +1,15 @@
-<!-- ====== STAR WARS HEADER ====== -->
+<!-- ====== HEADER STAR WARS ====== -->
 <div align="center">
-  
+
 # 🌌 A long time ago, in a repo far, far away…
 
 > *“Do. Or do not. There is no try.”* — Yoda
 
-<!-- Lightsabers -->
+<!-- Lightsabers (decorativos) -->
   
 ![blue](https://img.shields.io/badge/-%20-%230077FF?style=for-the-badge)&nbsp;
 ![green](https://img.shields.io/badge/-%20-%2320C933?style=for-the-badge)&nbsp;
-![red](https://img.shields.io/badge/-%20-%23D00000?style=for-the-badge)&nbsp;
+![red](https://img.shields.io/badge/-%20-%23D00000?style=for-the-badge)
 
 </div>
 
@@ -19,7 +19,8 @@
 - 👨‍💻 Analista Programador | Est. Ing. Informática  
 - 🚀 Construyendo soluciones full-stack; practicando Cloud & Arquitectura  
 - 🤝 Abierto a colaborar en OSS & startups  
-- 🛰️ *May the **source** be with you*  
+- ✨ *May the **source** be with you*  
+- 🔗 **LinkedIn:** [kevin-stuardo](https://www.linkedin.com/in/kevin-alexander-ignacio-stuardo-novoa-44b82620a/)
 
 ---
 
@@ -53,7 +54,7 @@
 
 ## 📟 Jedi Training Log (Stats)
 <p align="center">
-  <!-- Usa mirror para evitar fallos por rate-limit -->
+  <!-- Mirror para reducir fallos por rate limit -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elagentek&show_icons=true&theme=dark&rank_icon=github&hide_border=false&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
@@ -67,18 +68,51 @@
 
 ---
 
-## 📚 Holocron (Proyectos Destacados)
-- 🔧 **F.A.S.** — Sistema web para gestión alimentaria hospitalaria (Django + PostgreSQL + Docker)
-- 🛡️ **LeakEnd** — Monitoreo de contenido filtrado y DMCA automation (Selenium + Python)
-- 🏗️ **RaccoonDevs** — Portafolio y microservicios para PYMEs (Next.js + Tailwind + Nginx)
+## ⭐ Featured Projects (Holocron)
+<!-- Reemplaza los links si tus repos cambian -->
+- 🏥 **F.A.S.** — Sistema de gestión alimentaria hospitalaria *(Django + PostgreSQL + Docker)*  
+  `Django · REST · PostgreSQL · Docker · Nginx`
+- 🛡️ **LeakEnd** — Monitoreo de contenido filtrado & automatización DMCA *(Selenium + Python)*  
+  `Selenium · Python · Scraping · Automatización`
+- 💻 **RaccoonDevs** — Portafolio y microservicios para PYMEs *(Next.js + Tailwind)*  
+  `Next.js · Tailwind · Vercel · Nginx`
 
 ---
 
-## 📡 Comlink
-**LinkedIn:** [kevin-stuardo](https://www.linkedin.com/in/kevin-alexander-ignacio-stuardo-novoa-44b82620a/)  
-**Email:** tu.email@ejemplo.com  
+## 🛰️ Badges & Counters
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Elagentek&style=for-the-badge&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Elagentek?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Elagentek?style=for-the-badge)
+
+</div>
+
+---
+
+## 🗺️ Activity Graph
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elagentek&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="activity-graph" />
+  </a>
+</p>
+
+---
+
+## 📡 Comlink (Contact)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-alexander-ignacio-stuardo-novoa-44b82620a/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+
+</div>
+
+---
 
 <div align="center">
+
+> *“The Force will be with you. Always.”* — Obi-Wan Kenobi  
+<br/>
 
 ![blue](https://img.shields.io/badge/May_the-Source_be_with_you-%230077FF?style=for-the-badge)
 
