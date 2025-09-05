@@ -5,7 +5,7 @@
 # 🌌 Welcome, Young Padawan  
 
 <div align="center">
-<img src="https://media.giphy.com/media/GkCcRey2Hq5NVH8sfM/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/GkCcRey2Hq5NVH8sfM/giphy.gif" width="500"/>
 
 </div>
 
@@ -75,7 +75,11 @@
 - 💻 **RaccoonDevs** — Portafolio y microservicios para PYMEs *(Next.js + Tailwind)*  
   `Next.js · Tailwind · Vercel · Nginx`
 
----
+<br><br>
+
+<img src="https://media.giphy.com/media/CWkoXi05ji0Ny/giphy.gif" width="200"/>
+
+</div>
 
 ## 🛰️ Badges & Counters
 <div align="center">
