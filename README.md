@@ -1,15 +1,29 @@
-# 💫 About Me  
-💡 Analista Programador y estudiante de Ingeniería en Informática, apasionado por la tecnología y el aprendizaje constante. Me motiva enfrentar nuevos desafíos y aportar valor a través de proyectos reales y colaborativos en el área del desarrollo de software.  
+<!-- ====== STAR WARS HEADER ====== -->
+<div align="center">
+  
+# 🌌 A long time ago, in a repo far, far away…
 
-🎯 Mi objetivo es seguir creciendo profesionalmente, adquiriendo nuevas competencias y aplicándolas en soluciones tecnológicas que generen impacto positivo.  
+> *“Do. Or do not. There is no try.”* — Yoda
 
-🧠 Actualmente aprendiendo: tecnologías cloud, arquitectura de software y desarrollo full stack.  
-🤝 Interesado en colaborar en: proyectos open source y startups tecnológicas.  
-📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/kevin-alexander-ignacio-stuardo-novoa-44b82620a/)  
+<!-- Lightsabers -->
+  
+![blue](https://img.shields.io/badge/-%20-%230077FF?style=for-the-badge)&nbsp;
+![green](https://img.shields.io/badge/-%20-%2320C933?style=for-the-badge)&nbsp;
+![red](https://img.shields.io/badge/-%20-%23D00000?style=for-the-badge)
 
+</div>
 
+---
 
-# 💻 Tech Stack y algunas tecnologias con las que he trabajado 
+## 🛸 About Me (Jedi Edition)
+- 👨‍💻 Analista Programador | Est. Ing. Informática  
+- 🚀 Construyendo soluciones full-stack; practicando Cloud & Arquitectura  
+- 🤝 Abierto a colaborar en OSS & startups  
+- 🛰️ *May the **source** be with you*  
+
+---
+
+## ⚔️ Tech Stack (Lightsaber Row)
 <div align="center">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -31,30 +45,41 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
+---
 
-<div align="center">
+## 📟 Jedi Training Log (Stats)
+<p align="center">
+  <!-- Usa mirror para evitar fallos por rate-limit -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Elagentek&show_icons=true&theme=dark&rank_icon=github&hide_border=false&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
-## 📊 GitHub Stats  
-<!-- Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Elagentek&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<!-- Lenguajes -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact&theme=dark&hide_border=false&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact&theme=dark&hide_border=false&cache_seconds=1800" alt="Top Langs" />
 </p>
-
-## 🏆 Lenguajes más usados  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elagentek&layout=compact&theme=default&hide_border=false)  
 
 ---
 
-## 🏆 Trofeos de GitHub  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elagentek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+## 📚 Holocron (Proyectos Destacados)
+- 🔧 **F.A.S.** — Sistema web para gestión alimentaria hospitalaria (Django + PostgreSQL + Docker)
+- 🛡️ **LeakEnd** — Monitoreo de contenido filtrado y DMCA automation (Selenium + Python)
+- 🏗️ **RaccoonDevs** — Portafolio y microservicios para PYMEs (Next.js + Tailwind + Nginx)
 
-</div>  
+---
+
+## 📡 Comlink
+**LinkedIn:** [kevin-stuardo](https://www.linkedin.com/in/kevin-alexander-ignacio-stuardo-novoa-44b82620a/)  
+**Email:** tu.email@ejemplo.com  
+
+<div align="center">
+
+![blue](https://img.shields.io/badge/May_the-Source_be_with_you-%230077FF?style=for-the-badge)
+
+</div>
